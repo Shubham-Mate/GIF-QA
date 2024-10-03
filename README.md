@@ -21,4 +21,4 @@ A Model which processes a GIF and performs Visual Question Answering on the GIF.
 The model was trained on a P100 GPU on Kaggle
 
 # Checkpoint File
-![Click Here](https://drive.google.com/file/d/1BY-I5nA_sItvN4l167xCgdmfrOjKnFGB/view?usp=sharing)
+[Click Here](https://drive.google.com/file/d/1BY-I5nA_sItvN4l167xCgdmfrOjKnFGB/view?usp=sharing)
