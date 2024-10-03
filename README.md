@@ -1,2 +1,21 @@
 # GIF-QA
 Our solution (Group 8) to the ML Prep-A-thon PS for 13th Inter IIT Tech Meet
+A Model which processes a GIF and performs Visual Question Answering on the GIF.
+
+## Proposed Architecture
+
+
+## Pretrained Models used:
+ * Llama 3.2 3B as the decoder LLM
+ * XCLIP Patch-32 as the video encoder
+
+## Parts of Model trained:
+ * Llama 3.2 3B was finetuned using LoRA with Quantization
+ * The MLP Connective Adapter Layer was trained using standard backpropogation
+
+## Dataset:
+ * TGIF-QA
+ * TGIF-Description
+
+# Training Hardware
+The model was trained on a P100 GPU on Kaggle
