@@ -3,7 +3,7 @@ Our solution (Group 8) to the ML Prep-A-thon PS for 13th Inter IIT Tech Meet
 A Model which processes a GIF and performs Visual Question Answering on the GIF.
 
 ## Proposed Architecture
-![Model_Architecture]([http://url/to/img.png](https://github.com/Shubham-Mate/GIF-QA/blob/main/WhatsApp%20Image%202024-10-03%20at%2021.33.23(1).jpeg))
+![Model_Architecture](https://github.com/Shubham-Mate/GIF-QA/blob/main/WhatsApp%20Image%202024-10-03%20at%2021.33.23(1).jpeg)
 
 ## Pretrained Models used:
  * Llama 3.2 3B as the decoder LLM
